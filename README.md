@@ -1,4 +1,4 @@
-# Realtime Data Streaming | End-to-End Data Engineering Project
+![Data engineering architecture c](https://github.com/user-attachments/assets/72a6f6ca-4d4e-4058-a903-1f98e5261f94)# Realtime Data Streaming | End-to-End Data Engineering Project
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,11 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-![System Architecture](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![Data engineering architecture](https://github.com/user-attachments/assets/9e3078a0-ff03-4dbb-8ed4-7b6e5beed2e0)
+
+## DAG Flow
+
+
 
 The project is designed with the following components:
 
