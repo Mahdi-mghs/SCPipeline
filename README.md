@@ -1,5 +1,3 @@
-![Data engineering architecture c](https://github.com/user-attachments/assets/72a6f6ca-4d4e-4058-a903-1f98e5261f94)# Realtime Data Streaming | End-to-End Data Engineering Project
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
@@ -16,9 +14,6 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ![Data engineering architecture](https://github.com/user-attachments/assets/9e3078a0-ff03-4dbb-8ed4-7b6e5beed2e0)
 
-## DAG Flow
-
-
 
 The project is designed with the following components:
 
@@ -28,6 +23,10 @@ The project is designed with the following components:
 - 🎛️ **Control Center and Schema Registry**: Helps in monitoring and schema management of our Kafka streams.
 - ⚙️ **Apache Spark**: For data processing with its master and worker nodes.
 - 📦 **Cassandra**: Where the processed data will be stored.
+
+## DAG Flow
+
+![DagGraph](https://github.com/user-attachments/assets/4225105f-c857-4750-80b6-b969e9940106)
 
 ## What You'll Learn
 
